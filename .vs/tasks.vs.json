@@ -1,0 +1,30 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-CMPG-323-Project-2---31304923",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-README",
+      "appliesTo": "README.md",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-Cmpg323P2Api31304923",
+      "appliesTo": "Cmpg323P2Api31304923/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-Cmpg323P2Api31304923",
+      "appliesTo": "Cmpg323P2Api31304923/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-Cmpg323P2Api31304923",
+      "appliesTo": "Cmpg323P2Api31304923/Cmpg323P2Api31304923/",
+      "type": "launch"
+    }
+  ]
+}
